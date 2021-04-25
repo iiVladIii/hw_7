@@ -1,0 +1,220 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "body": "Hello! =) On this page you can read posts, edit them, delete and also comment.",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 2,
+      "body": "Цены на жёсткие диски большого объёма и SSD стремительно растут. Причиной этого ажиотажа стала новая криптовалюта Chia, для добычи которой нужны большие HDD и износостойкие SSD.\n",
+      "title": "Second Post",
+      "author": "@habr",
+      "date": "2021-04-25"
+    },
+    {
+      "id": 3,
+      "title": "twit",
+      "body": "Am hosting SNL on May 8",
+      "author": "Elon Musk",
+      "date": "2021-04-22"
+    },
+    {
+      "id": 4,
+      "title": "twit",
+      "body": "Tesla Solar + Powerwall battery enables consumers to be their own utility",
+      "author": "Elon Musk",
+      "date": "2021-04-22"
+    },
+    {
+      "id": 5,
+      "title": "twit",
+      "body": "Starting next week, Tesla Solar Panels & Solar Roof will only be sold as an integrated product *with* Tesla Powerwall battery",
+      "author": "Elon Musk",
+      "date": "2021-04-22"
+    },
+    {
+      "id": 6,
+      "title": "Установка MOXIE на марсоходе «Настойчивость» работает! Результаты пока скромные — получено 5 грамм кислорода, которых должно хватить примерно на 10 минут дыхания астронавта: ",
+      "body": "О MOXIE: Эта экспериментальная установка представляет собой небольшой прибор, размером с аккумулятор легкового автомобиля, который располагается в правой передней части марсохода.",
+      "author": "@habr",
+      "date": "2021-04-25"
+    },
+    {
+      "id": 7,
+      "title": "About next Posts",
+      "body": "You can create next posts",
+      "author": "VladiI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 8,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 9,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 10,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 11,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 12,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 13,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 14,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 15,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 16,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 17,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 18,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 19,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 20,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    },
+    {
+      "id": 21,
+      "body": "Pagination demonstration",
+      "title": "First Post",
+      "author": "VladI",
+      "date": "2021-04-24"
+    }
+  ],
+  "comments1": [
+    {
+      "id": 1,
+      "body": "I just create new comment",
+      "author": "User",
+      "date": "2021-04-25"
+    }
+  ],
+  "comments2": [
+    {
+      "id": 1,
+      "body": "and it works here too",
+      "author": "user",
+      "date": ""
+    }
+  ],
+  "comments3": [],
+  "comments4": [],
+  "comments5": [],
+  "comments6": [],
+  "comments7": [],
+  "comments8": [],
+  "comments9": [],
+  "comments10": [],
+  "comments11": [],
+  "comments12": [],
+  "comments13": [],
+  "comments15": [],
+  "comments16": [],
+  "comments17": [],
+  "comments18": [],
+  "comments19": [],
+  "comments20": [],
+  "comments21": [],
+  "comments22": [],
+  "comments23": [],
+  "comments24": [],
+  "comments25": [],
+  "comments26": [],
+  "comments27": [],
+  "comments28": [],
+  "comments29": [],
+  "comments30": [],
+  "comments31": [],
+  "comments32": [],
+  "comments33": [],
+  "comments34": [],
+  "comments35": [],
+  "comments36": [],
+  "comments37": [],
+  "comments38": [],
+  "comments39": [],
+  "comments40": [],
+  "comments41": [],
+  "comments42": [],
+  "comments43": [],
+  "comments44": [],
+  "comments45": [],
+  "comments46": [],
+  "comments47": [],
+  "comments48": [],
+  "comments49": [],
+  "comments50": [],
+  "comments51": [],
+  "comments52": [],
+  "comments53": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
