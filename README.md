@@ -1,5 +1,7 @@
 # hw_7
 
+json-server --watch db.json
+
 ## Project setup
 ```
 npm install
